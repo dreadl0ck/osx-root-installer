@@ -1,6 +1,6 @@
 # OSX ElCapitan Privilege Escalation Proof Of Concept
 
-This demonstrates a simple privilige escalation due to the fact that sudo access is shared between TTYs.
+This demonstrates a simple privilege escalation due to the fact that sudo access is shared between TTYs.
 
 The program daemonizes and tries to use sudo in the specified interval (default sudo timeout is 5min).
 
