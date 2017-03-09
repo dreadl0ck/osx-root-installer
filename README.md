@@ -59,6 +59,11 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+The author is in no way responsible for any illegal use of this software.
+It is provided purely as an educational proof of concept.
+The author also cannot be held responsible for any damages or mishaps that may happen in the course of using this software.
+Use at your own risk.
 ```
 
 ## Contact
