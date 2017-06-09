@@ -50,7 +50,7 @@ Usage: osx-root-installer [-p full|session] [-b bin] [-u url] [-c command]
 
 ```LICENSE
 OSX ElCapitan Privilege Escalation Proof Of Concept
-Copyright (c) 2017 Philipp Mieden <dreadl0ck@protonmail.ch>
+Copyright (c) 2017 Philipp Mieden <dreadl0ck [at] protonmail [dot] ch>
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
 WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
@@ -68,7 +68,7 @@ Use at your own risk.
 
 ## Contact
 
-Mail: dreadl0ck@protonmail.ch
+Mail: dreadl0ck [at] protonmail [dot] ch
 
 ```PGP
 -----BEGIN PGP PUBLIC KEY BLOCK-----

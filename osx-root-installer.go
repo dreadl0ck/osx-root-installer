@@ -1,5 +1,5 @@
 // OSX ElCapitan Privilege Escalation Proof Of Concept
-// Copyright (c) 2017 Philipp Mieden <dreadl0ck@protonmail.ch>
+// Copyright (c) 2017 Philipp Mieden <dreadl0ck [at] protonmail [dot] ch>
 
 // THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
 // WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
